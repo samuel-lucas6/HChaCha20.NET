@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Authors>Samuel Lucas</Authors>
+        <Description>A .NET implementation of HChaCha20.</Description>
+        <Copyright>Copyright (c) 2022 Samuel Lucas </Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/samuel-lucas6/HChaCha20.NET</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/samuel-lucas6/HChaCha20.NET</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>hchacha20 key-derivation xchacha20</PackageTags>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+    </PropertyGroup>
+
+</Project>
